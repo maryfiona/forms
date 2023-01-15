@@ -1,0 +1,72 @@
+.fiona{
+	position: relative;
+	left: 60em;
+	 
+}
+.class{
+	width: 120%;
+	position: relative;
+	right: 120px;
+
+}
+.fi{
+	position: relative;
+	left: 10em;
+	font-size: 20px;
+	color: purple;
+}
+input:focus{
+	outline-color:purple;
+}
+.nora{
+
+	width: 20em;
+	height: 3em;
+	
+	padding-left: 2em;
+
+	
+}
+.dora{
+	width: 20em;
+	height: 3em;
+	
+	padding-left: 2em;
+	position: relative;
+	top: 2em;
+
+	
+}
+.uncle{
+	background-color:purple;
+	color: white;
+	border:none;
+	outline: none;
+	position: relative;
+	top: 7em;
+	right: 20em;
+	border-radius: 30em;
+	width: 8em;
+	height: 3em;
+
+
+}
+body{
+	overflow-x: hidden;
+}
+.as{
+	position: relative;
+	top: 5em;
+	left: 11em;
+}
+.see{
+	position: relative;
+top: 10em;
+	right: 1em;
+}
+.de{
+	position: relative;
+	top: 7.1em;
+	left: 8em;
+}
+
